@@ -23,7 +23,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<div style="position: relative; padding-bottom: 45.416666666666664%; height: 0;"><iframe src="https://www.loom.com/embed/d16bb44c0f0949e485cfc37d2c4b32cf?sid=07fe713f-27b7-4723-94e5-ee331cdd45c7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/d16bb44c0f0949e485cfc37d2c4b32cf">
+    </a>
+    <a href="https://www.loom.com/share/d16bb44c0f0949e485cfc37d2c4b32cf">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d16bb44c0f0949e485cfc37d2c4b32cf-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
